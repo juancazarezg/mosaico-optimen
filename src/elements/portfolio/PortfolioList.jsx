@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import { Link } from 'react-router-dom';
-const Portfolio_image = <img src="/assets/images/portfolio/portfolio-4.jpg" alt="React Creative Agency" />;
-const Portfolio_image2 = <img src="/assets/images/portfolio/portfolio-5.jpg" alt="React Creative Agency" />;
-const Portfolio_image3 = <img src="/assets/images/portfolio/portfolio-6.jpg" alt="React Creative Agency" />;
-const Portfolio_image4 = <img src="/assets/images/portfolio/portfolio-7.jpg" alt="React Creative Agency" />;
-const Portfolio_image5 = <img src="/assets/images/portfolio/portfolio-8.jpg" alt="React Creative Agency" />;
+const Portfolio_image = <img src="/assets/images/portfolio/portfolio-4.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image2 = <img src="/assets/images/portfolio/portfolio-5.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image3 = <img src="/assets/images/portfolio/portfolio-6.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image4 = <img src="/assets/images/portfolio/portfolio-7.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image5 = <img src="/assets/images/portfolio/portfolio-8.jpg" alt="Mosaico Apps Optimen" />;
 
 const PortfolioListContent = [
     /*{
@@ -38,15 +38,15 @@ const PortfolioListContent = [
     {
         image: Portfolio_image4,
         category: '',
-        title: 'GEMA',
+        title: 'RADAR CONTROL',
         description: 'Strategic Maintenance Control​',
-        link: 'gema'
+        link: 'radarcontrol'
     },
     {
         image: Portfolio_image5,
         category: '',
-        title: 'CREW',
-        description: 'Lorem ipsum dolor sit amet, consec tetur adipiscing elit.',
+        title: 'DIRECSMAN',
+        description: '',
         link: 'crew'
     }
 ]

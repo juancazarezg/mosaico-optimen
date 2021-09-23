@@ -6,6 +6,7 @@ import HeaderThree from "../component/header/HeaderThree";
 import FooterTwo from "../component/footer/FooterTwo";
 import PortfolioList from "../elements/portfolio/PortfolioList";
 import Helmet from "../component/common/Helmet";
+import VideoPopup from '../elements/common/Video';
 
 const SlideList = [
     {
@@ -63,7 +64,7 @@ const Home = () => {
                                 </div>
                             </div>
                             <div className="row">
-                                <PortfolioList styevariation="text-center mt--40" column="col-lg-4 col-md-6 col-sm-6 col-12" item="4" />
+                                <PortfolioList styevariation="text-center mt--40" column="col-lg-4 col-md-6 col-sm-6 col-12" item="5" />
                             </div>
                         </div>
                     </div>
@@ -71,7 +72,11 @@ const Home = () => {
             </div>
             {/* End Portfolio Area */}    
 
-            
+            {/* Start Service Area */}
+            <div id="service" className="fix">
+                <VideoPopup/>
+            </div>
+
             {/* Start Service Area  
             <div id="service" className="fix">
                 <div className="service-area creative-service-wrapper pb--120 bg_color--5" >

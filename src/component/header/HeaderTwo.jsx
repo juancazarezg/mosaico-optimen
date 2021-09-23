@@ -4,10 +4,8 @@ import {FaTwitter ,FaInstagram ,FaFacebookF , FaLinkedinIn } from "react-icons/f
 import { FiX , FiMenu} from "react-icons/fi";
 
 const SocialShare = [
-    {Social: <FaFacebookF /> , link: 'https://www.facebook.com/'},
-    {Social: <FaLinkedinIn /> , link: 'https://www.linkedin.com/'},
-    {Social: <FaInstagram /> , link: 'https://www.instagram.com/'},
-    {Social: <FaTwitter /> , link: 'https://twitter.com/'},
+    {Social: <FaFacebookF /> , link: 'https://www.facebook.com/optimen.mx/'},
+    {Social: <FaLinkedinIn /> , link: 'https://www.linkedin.com/company/optimen-sc/?originalSubdomain=mx'},
 ]
 
 class Header extends Component{

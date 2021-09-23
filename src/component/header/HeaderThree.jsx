@@ -3,10 +3,8 @@ import {FaTwitter ,FaInstagram ,FaFacebookF , FaLinkedinIn } from "react-icons/f
 import { FiX , FiMenu} from "react-icons/fi";
 
 const SocialShare = [
-    {Social: <FaFacebookF /> , link: 'https://www.facebook.com/'},
-    {Social: <FaLinkedinIn /> , link: 'https://www.linkedin.com/'},
-    {Social: <FaInstagram /> , link: 'https://www.instagram.com/'},
-    {Social: <FaTwitter /> , link: 'https://twitter.com/'},
+    {Social: <FaFacebookF /> , link: 'https://www.facebook.com/optimen.mx/'},
+    {Social: <FaLinkedinIn /> , link: 'https://www.linkedin.com/company/optimen-sc/?originalSubdomain=mx'},
 ]
 class HeaderThree extends Component{
     constructor(props) {
@@ -80,14 +78,7 @@ class HeaderThree extends Component{
                                 ))}
                             </ul>
                         </div>
-                        {/* Start Humberger Menu  */}
-                        <div className="humberger-menu d-block d-lg-none pl--20 pl_sm--10">
-                            <span onClick={this.menuTrigger} className="menutrigger text-white"><FiMenu /></span>
-                        </div>
-                        {/* End Humberger Menu  */}
-                        <div className="close-menu d-block d-lg-none">
-                            <span onClick={this.CLoseMenuTrigger} className="closeTrigger"><FiX /></span>
-                        </div>
+                        
                     </div>
                 </div>
             </header>

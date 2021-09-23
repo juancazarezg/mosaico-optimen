@@ -10,12 +10,12 @@ import Slider from "react-slick";
 import PortfolioList from "../elements/portfolio/PortfolioList";
 import { slickDot , portfolioSlick2 } from "../page-demo/script";
 
-const Portfolio_image = <img src="/assets/images/portfolio/portfolio-4.jpg" alt="React Creative Agency" />;
-const Portfolio_image2 = <img src="/assets/images/portfolio/portfolio-5.jpg" alt="React Creative Agency" />;
-const Portfolio_image3 = <img src="/assets/images/portfolio/portfolio-6.jpg" alt="React Creative Agency" />;
-const Portfolio_image4 = <img src="/assets/images/portfolio/portfolio-7.jpg" alt="React Creative Agency" />;
-const Portfolio_image5 = <img src="/assets/images/portfolio/portfolio-8.jpg" alt="React Creative Agency" />;
-const Portfolio_image6 = <img src="/assets/images/portfolio/portfolio-9.jpg" alt="React Creative Agency" />;
+const Portfolio_image = <img src="/assets/images/portfolio/portfolio-4.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image2 = <img src="/assets/images/portfolio/portfolio-5.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image3 = <img src="/assets/images/portfolio/portfolio-6.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image4 = <img src="/assets/images/portfolio/portfolio-7.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image5 = <img src="/assets/images/portfolio/portfolio-8.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image6 = <img src="/assets/images/portfolio/portfolio-9.jpg" alt="Mosaico Apps Optimen" />;
 
 
 const list = [

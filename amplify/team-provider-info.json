@@ -1,15 +1,44 @@
 {
-  "dev": {
-    "awscloudformation": {
-      "AuthRoleName": "amplify-mosaico-dev-131405-authRole",
-      "UnauthRoleArn": "arn:aws:iam::429228053781:role/amplify-mosaico-dev-131405-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::429228053781:role/amplify-mosaico-dev-131405-authRole",
-      "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-mosaico-dev-131405-deployment",
-      "UnauthRoleName": "amplify-mosaico-dev-131405-unauthRole",
-      "StackName": "amplify-mosaico-dev-131405",
-      "StackId": "arn:aws:cloudformation:us-east-1:429228053781:stack/amplify-mosaico-dev-131405/b84de470-1650-11ec-9b54-12c3af0a322d",
-      "AmplifyAppId": "dvlba0comsjof"
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-mosaico-dev-131405-authRole",
+            "UnauthRoleArn": "arn:aws:iam::429228053781:role/amplify-mosaico-dev-131405-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::429228053781:role/amplify-mosaico-dev-131405-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-mosaico-dev-131405-deployment",
+            "UnauthRoleName": "amplify-mosaico-dev-131405-unauthRole",
+            "StackName": "amplify-mosaico-dev-131405",
+            "StackId": "arn:aws:cloudformation:us-east-1:429228053781:stack/amplify-mosaico-dev-131405/b84de470-1650-11ec-9b54-12c3af0a322d",
+            "AmplifyAppId": "dvlba0comsjof"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dvlba0comsjof",
+                    "type": "manual"
+                }
+            }
+        }
+    },
+    "env": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-mosaico-env-133442-authRole",
+            "UnauthRoleArn": "arn:aws:iam::429228053781:role/amplify-mosaico-env-133442-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::429228053781:role/amplify-mosaico-env-133442-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-mosaico-env-133442-deployment",
+            "UnauthRoleName": "amplify-mosaico-env-133442-unauthRole",
+            "StackName": "amplify-mosaico-env-133442",
+            "StackId": "arn:aws:cloudformation:us-east-1:429228053781:stack/amplify-mosaico-env-133442/98f4cf00-1653-11ec-86ac-12996053af03",
+            "AmplifyAppId": "dvlba0comsjof"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dvlba0comsjof",
+                    "type": "manual"
+                }
+            }
+        }
     }
-  }
 }

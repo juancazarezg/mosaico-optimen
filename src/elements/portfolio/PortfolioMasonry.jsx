@@ -1,17 +1,17 @@
 import React, { Component } from "react";
 import { Link } from 'react-router-dom';
-const Portfolio_image = <img src="/assets/images/portfolio/portfolio-static-01.jpg" alt="React Creative Agency" />;
-const Portfolio_image2 = <img src="/assets/images/portfolio/portfolio-static-02.jpg" alt="React Creative Agency" />;
-const Portfolio_image3 = <img src="/assets/images/portfolio/portfolio-static-03.jpg" alt="React Creative Agency" />;
-const Portfolio_image4 = <img src="/assets/images/portfolio/portfolio-static-04.jpg" alt="React Creative Agency" />;
-const Portfolio_image5 = <img src="/assets/images/portfolio/portfolio-static-05.jpg" alt="React Creative Agency" />;
-const Portfolio_image6 = <img src="/assets/images/portfolio/portfolio-static-06.jpg" alt="React Creative Agency" />;
-const Portfolio_image7 = <img src="/assets/images/portfolio/portfolio-static-07.jpg" alt="React Creative Agency" />;
-const Portfolio_image8 = <img src="/assets/images/portfolio/portfolio-static-08.jpg" alt="React Creative Agency" />;
-const Portfolio_image9 = <img src="/assets/images/portfolio/portfolio-static-09.jpg" alt="React Creative Agency" />;
-const Portfolio_image10 = <img src="/assets/images/portfolio/portfolio-static-01.jpg" alt="React Creative Agency" />;
-const Portfolio_image11 = <img src="/assets/images/portfolio/portfolio-static-08.jpg" alt="React Creative Agency" />;
-const Portfolio_image12 = <img src="/assets/images/portfolio/portfolio-static-05.jpg" alt="React Creative Agency" />;
+const Portfolio_image = <img src="/assets/images/portfolio/portfolio-static-01.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image2 = <img src="/assets/images/portfolio/portfolio-static-02.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image3 = <img src="/assets/images/portfolio/portfolio-static-03.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image4 = <img src="/assets/images/portfolio/portfolio-static-04.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image5 = <img src="/assets/images/portfolio/portfolio-static-05.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image6 = <img src="/assets/images/portfolio/portfolio-static-06.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image7 = <img src="/assets/images/portfolio/portfolio-static-07.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image8 = <img src="/assets/images/portfolio/portfolio-static-08.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image9 = <img src="/assets/images/portfolio/portfolio-static-09.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image10 = <img src="/assets/images/portfolio/portfolio-static-01.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image11 = <img src="/assets/images/portfolio/portfolio-static-08.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image12 = <img src="/assets/images/portfolio/portfolio-static-05.jpg" alt="Mosaico Apps Optimen" />;
 
 
 

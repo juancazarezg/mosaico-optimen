@@ -58,7 +58,7 @@ class Orka extends Component{
                                             <div className="col-lg-6 col-12">
                                                 <div className="thumb position-relative">
                                                     <img className="w-100" src="/assets/images/service/service-01.png" alt="Service Images"/>
-                                                    <ModalVideo channel='custom' isOpen={this.state.isOpen} url='./assets/video/orka.mp4' onClose={() => this.setState({isOpen: false})} />
+                                                    <ModalVideo channel='custom' isOpen={this.state.isOpen} url='./assets/video/orka2.mp4' onClose={() => this.setState({isOpen: false})} />
                                                     <button className="video-popup" onClick={this.openModal}><span className="play-icon"></span></button>
                                                 </div>
                                             </div>

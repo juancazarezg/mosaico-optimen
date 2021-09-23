@@ -22,7 +22,8 @@ import error404 from "./elements/error404";
 import Aiops from "./elements/productos/Aiops"
 import Orka from "./elements/productos/Orka"
 import Fourops from "./elements/productos/4ops"
-import Gema from "./elements/productos/Gema"
+import RadarControl from "./elements/productos/RadarControl"
+import Crew from "./elements/productos/Crew"
 
 
 import { BrowserRouter, Switch, Route  } from 'react-router-dom';
@@ -40,7 +41,8 @@ class Root extends Component{
                         <Route exact path={`${process.env.PUBLIC_URL}/aiops`} component={Aiops}/>
                         <Route exact path={`${process.env.PUBLIC_URL}/orka`} component={Orka}/>
                         <Route exact path={`${process.env.PUBLIC_URL}/4ops`} component={Fourops}/>
-                        <Route exact path={`${process.env.PUBLIC_URL}/gema`} component={Gema}/>
+                        <Route exact path={`${process.env.PUBLIC_URL}/radarcontrol`} component={RadarControl}/>
+                        <Route exact path={`${process.env.PUBLIC_URL}/crew`} component={Crew}/>
 
                         <Route path={`${process.env.PUBLIC_URL}/404`} component={error404}/>
                         <Route component={error404}/>

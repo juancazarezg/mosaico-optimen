@@ -17,10 +17,10 @@ import Contact from "../elements/contact/ContactTwo";
 import Helmet from "../component/common/Helmet";
 import AboutThree from "../component/HomeLayout/homeOne/AboutThree";
 
-const Portfolio_image = <img src="/assets/images/portfolio/interior/portfolio-15.jpg" alt="React Creative Agency" />;
-const Portfolio_image2 = <img src="/assets/images/portfolio/interior/portfolio-12.jpg" alt="React Creative Agency" />;
-const Portfolio_image3 = <img src="/assets/images/portfolio/interior/portfolio-13.jpg" alt="React Creative Agency" />;
-const Portfolio_image4 = <img src="/assets/images/portfolio/interior/portfolio-14.jpg" alt="React Creative Agency" />;
+const Portfolio_image = <img src="/assets/images/portfolio/interior/portfolio-15.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image2 = <img src="/assets/images/portfolio/interior/portfolio-12.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image3 = <img src="/assets/images/portfolio/interior/portfolio-13.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image4 = <img src="/assets/images/portfolio/interior/portfolio-14.jpg" alt="Mosaico Apps Optimen" />;
 
 const SlideList = [
     {
