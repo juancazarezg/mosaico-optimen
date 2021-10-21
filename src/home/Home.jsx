@@ -64,7 +64,7 @@ const Home = () => {
                                 </div>
                             </div>
                             <div className="row">
-                                <PortfolioList styevariation="text-center mt--40" column="col-lg-4 col-md-6 col-sm-6 col-12" item="5" />
+                                <PortfolioList styevariation="text-center mt--40" column="col-lg-4 col-md-6 col-sm-6 col-12" item="6" />
                             </div>
                         </div>
                     </div>

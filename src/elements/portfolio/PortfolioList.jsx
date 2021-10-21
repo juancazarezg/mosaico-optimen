@@ -5,6 +5,7 @@ const Portfolio_image2 = <img src="/assets/images/portfolio/portfolio-5.jpg" alt
 const Portfolio_image3 = <img src="/assets/images/portfolio/portfolio-6.jpg" alt="Mosaico Apps Optimen" />;
 const Portfolio_image4 = <img src="/assets/images/portfolio/portfolio-7.jpg" alt="Mosaico Apps Optimen" />;
 const Portfolio_image5 = <img src="/assets/images/portfolio/portfolio-8.jpg" alt="Mosaico Apps Optimen" />;
+const Portfolio_image6 = <img src="/assets/images/portfolio/portfolio-9.jpg" alt="Mosaico Apps Optimen" />;
 
 const PortfolioListContent = [
     /*{
@@ -19,35 +20,42 @@ const PortfolioListContent = [
         category: '',
         title: 'AIOPS',
         description: 'Airport Operations Sentinel',
-        link: 'aiops'
+        link: '/aiops'
     },
     {
         image: Portfolio_image2,
         category: '',
         title: 'ORKA',
         description: 'Optimen Resources & KPI Analytics',
-        link: 'orka'
+        link: '/orka'
     },
     {
         image: Portfolio_image3,
         category: '',
         title: '4OPS',
         description: 'Facilitate the resource allocation and personnel assignment',
-        link: '4ops'
+        link: '/4ops'
     },
     {
         image: Portfolio_image4,
         category: '',
         title: 'RADAR CONTROL',
         description: 'Strategic Maintenance Control​',
-        link: 'radarcontrol'
+        link: '/radarcontrol'
     },
     {
         image: Portfolio_image5,
         category: '',
         title: 'DIRECSMAN',
         description: '',
-        link: 'crew'
+        link: '/crew'
+    },
+    {
+        image: Portfolio_image6,
+        category: '',
+        title: 'VRP',
+        description: '',
+        link: '/vrp'
     }
 ]
 
