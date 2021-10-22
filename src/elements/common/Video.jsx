@@ -28,7 +28,7 @@ class VideoPopup extends Component {
                                 <div className="col-lg-12">
                                     <div className="thumb position-relative">
                                         <img className="w-100" src="/assets/images/bg/bg-image-1.jpg" alt="Service Images"/>
-                                        <ModalVideo channel='custom' isOpen={this.state.isOpen} url='./assets/video/optiairways1.mp4' onClose={() => this.setState({isOpen: false})} />
+                                        <ModalVideo channel='custom' isOpen={this.state.isOpen} url='https://videos-mosaico.s3.amazonaws.com/optiairways.mp4' onClose={() => this.setState({isOpen: false})} />
                                         <button className="video-popup position-top-center" onClick={this.openModal}><span className="play-icon"></span></button>
                                     </div>
                                 </div>

@@ -43,7 +43,7 @@ class Root extends Component{
                         <Route exact path={`${process.env.PUBLIC_URL}/orka`} component={Orka}/>
                         <Route exact path={`${process.env.PUBLIC_URL}/4ops`} component={Fourops}/>
                         <Route exact path={`${process.env.PUBLIC_URL}/radarcontrol`} component={RadarControl}/>
-                        <Route exact path={`${process.env.PUBLIC_URL}/crew`} component={Crew}/>
+                        <Route exact path={`${process.env.PUBLIC_URL}/direcsman`} component={Crew}/>
                         <Route exact path={`${process.env.PUBLIC_URL}/vrp`} component={Vrp}/>
 
                         <Route path={`${process.env.PUBLIC_URL}/404`} component={error404}/>

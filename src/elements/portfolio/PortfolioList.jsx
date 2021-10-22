@@ -48,7 +48,7 @@ const PortfolioListContent = [
         category: '',
         title: 'DIRECSMAN',
         description: '',
-        link: '/crew'
+        link: '/direcsman'
     },
     {
         image: Portfolio_image6,
